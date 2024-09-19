@@ -1,0 +1,4 @@
+runner\ArrayNewRun.class
+stepDefinitions\ArrayNewStep.class
+driverManager\WebDriverNew.class
+pageObjects\ArrayNewPage.class
